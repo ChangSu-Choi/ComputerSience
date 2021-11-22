@@ -1,2 +1,2 @@
-# ComputerSience
+# 대충 공부 했던 것 정리
  
